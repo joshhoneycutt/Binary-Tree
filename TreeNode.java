@@ -1,9 +1,6 @@
 /* 
 * Date: 07 Nov 2013
 * Programmer: Joshua Honeycutt
-* Name: TreeNode.java (Tree Program, Programming Assignment #2)
-* Professor: Jugan
-* Class: ITCS 2214-002
 * Program: TreeNode class for the Tree Program.
 */
 
