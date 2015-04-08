@@ -1,9 +1,6 @@
 /* 
 * Date: 07 Nov 2013
 * Programmer: Joshua Honeycutt
-* Name: Tree.java (Tree Program, Programming Assignment #2) 
-* Professor: Jugan
-* Class: ITCS 2214-002
 * Program: The purpose of this program is to create a binary tree 
 *          that uses the TreeDemo.java file that has been provided. 
 */
