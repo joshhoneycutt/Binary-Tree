@@ -1,5 +1,4 @@
-// Driver file for project 2.
-// ITCS 2214 -- Professor Jugan
+// Driver file (provided)
 
 import java.util.*;
 
